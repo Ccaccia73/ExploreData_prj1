@@ -1,4 +1,5 @@
-ExploreData_prj1
+Exploratory Data Analysys
 ================
 
-Coursera - Exploratory Data Analysis project 1
+Coursera - _Exploratory Data Analysis_ project 1
+Plots from the the "Individual household electric power consumption Data Set".
